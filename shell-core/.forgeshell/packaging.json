@@ -1,0 +1,6 @@
+{
+  "applicationDisplayName": "Leap",
+  "applicationFolderName": "Leap",
+  "createdAt": "2026-04-27T16:31:49.922Z",
+  "note": "Used only for the optional final ForgeShell packaging step. Nothing is renamed during bootstrap."
+}
